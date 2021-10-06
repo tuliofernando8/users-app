@@ -4,11 +4,11 @@ Sistema de Login e CRUD completo, utilizando PHP, MySQL e Bootstrap.
 ### Alguns screenshots do sistema
  - Tela de Login:
 
-   ![Login](https://github.com/tuliofernando8/users-app/blob/main/screenshots/login.png "Login").
+   ![Login](https://github.com/tuliofernando8/users-app/blob/main/screenshots/login.png "Login")
    
   - Cadastro de um novo usuário:
   
-  ![Cadastro](https://github.com/tuliofernando8/users-app/blob/main/screenshots/cadastroUsuario.png "Cadastro").
+  ![Cadastro](https://github.com/tuliofernando8/users-app/blob/main/screenshots/cadastroUsuario.png "Cadastro")
  
 ### Ferramentas
 - VSCode para criação do código.
