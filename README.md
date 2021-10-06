@@ -1,8 +1,14 @@
 # users-app
 Sistema de Login e CRUD completo, utilizando PHP, MySQL e Bootstrap.
 
-### ScreenShots do sistema
- Será atualizado.
+### Alguns screenshots do sistema
+ - Tela de Login:
+
+   ![Login](https://github.com/tuliofernando8/users-app/blob/main/screenshots/login.png "Login").
+   
+  - Cadastro de um novo usuário:
+  
+  ![Cadastro](https://github.com/tuliofernando8/users-app/blob/main/screenshots/cadastroUsuario.png "Cadastro").
  
 ### Ferramentas
 - VSCode para criação do código.
@@ -17,7 +23,10 @@ Sistema de Login e CRUD completo, utilizando PHP, MySQL e Bootstrap.
 ### Configuração do Banco de dados
 - Com os servidores do XAMP já iniciados, entre no link http://localhost/phpmyadmin/index.php.
   - Você utilizará esse link para criar e configurar o banco.
-- Criar um Novo Banco com o nome "users_app" e dentro dele criar uma tabela com o nome "users". Os campos da tabela devem ser criados conforme as imagens abaixo.
-- [Serão adicionadas Imagens].
+- Criar um Novo Banco com o nome "users_app" e dentro dele criar uma tabela com o nome "users". Os campos da tabela devem ser criados conforme a estrutura mostrada abaixo:
+   
+   - Estrura do BD:
+
+ ![Estrutura do Banco de dados](https://github.com/tuliofernando8/users-app/blob/main/screenshots/estruturaBanco.png "Estrutura BD").
 
 
